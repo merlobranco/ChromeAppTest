@@ -1,10 +1,10 @@
 # ChromeApp Test Web App
 
-This Web App was required for testing:
+This Web App is required for testing:
 
 * [MyChromeArduinoBlink Chrome App](https://github.com/merlobranco/MyChromeArduinoBlink)
 
-This Web App was desployed on an Apache server in order to test it successfully
+This Web App could be deployed on an Apache server in order to test it successfully
 
 ## Useful Links
 
